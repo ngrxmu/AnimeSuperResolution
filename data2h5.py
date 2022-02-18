@@ -10,6 +10,10 @@ from PIL import Image
 from torchvision import transforms
 
 
+def mkdir(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+
 def clip_image(root):
     image_names = os.listdir(root)
     image_paths = [os.path.join(root, name) for name in image_names]
@@ -48,4 +52,5 @@ def create_h5_file(root, scale):
 
 if __name__=='__main__':
     clip_image('./data')
+    mkdir('./clipdata')
     create_h5_file('./clipdata', 4)
