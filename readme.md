@@ -11,10 +11,8 @@ pytorch 1.7.1
 pip install -r requirements.txt
 ```
 ## 2. Train
-### 2.1 unzip data
-```bash
-unzip data.zip
-```
+### 2.1 download data
+https://www.aliyundrive.com/s/GRERDnP3mPW
 ### 2.2 convert jpg to h5
 ```bash
 python data2h5.py
