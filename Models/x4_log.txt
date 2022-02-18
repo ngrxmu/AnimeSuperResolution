@@ -1,0 +1,637 @@
+load dict success!
+train epoch 0 total loss 31162507.53125
+val epoch 0 total loss 3333341.3332214355 avg_psnr 27.926801681518555
+Save best model
+train epoch 1 total loss 29140647.578125
+val epoch 1 total loss 2726556.1334228516 avg_psnr 29.991331100463867
+Save best model
+train epoch 2 total loss 21718356.4921875
+val epoch 2 total loss 2218652.2830200195 avg_psnr 31.937843322753906
+Save best model
+train epoch 3 total loss 19974446.953125
+val epoch 3 total loss 2180127.983154297 avg_psnr 32.28192138671875
+Save best model
+train epoch 4 total loss 19366122.171875
+val epoch 4 total loss 2100220.880065918 avg_psnr 32.57926559448242
+Save best model
+train epoch 5 total loss 19010838.2421875
+val epoch 5 total loss 2095501.7073364258 avg_psnr 32.61864471435547
+Save best model
+train epoch 6 total loss 18835187.359375
+val epoch 6 total loss 2029103.6530914307 avg_psnr 32.788108825683594
+Save best model
+train epoch 7 total loss 18617086.40625
+val epoch 7 total loss 2061769.6318817139 avg_psnr 32.74657440185547
+train epoch 8 total loss 18411046.41015625
+val epoch 8 total loss 2043483.7891235352 avg_psnr 32.75483703613281
+train epoch 9 total loss 18293955.40625
+val epoch 9 total loss 2023999.888671875 avg_psnr 32.96434783935547
+Save best model
+train epoch 10 total loss 18202128.96875
+val epoch 10 total loss 1999420.531097412 avg_psnr 33.00697326660156
+Save best model
+train epoch 11 total loss 18185409.15625
+val epoch 11 total loss 2014652.4716796875 avg_psnr 33.00239562988281
+train epoch 12 total loss 17956382.8671875
+val epoch 12 total loss 2010953.7416992188 avg_psnr 33.03076934814453
+Save best model
+train epoch 13 total loss 18023571.9140625
+val epoch 13 total loss 1965443.028579712 avg_psnr 33.3488655090332
+Save best model
+train epoch 14 total loss 17898206.5859375
+val epoch 14 total loss 1983367.5222320557 avg_psnr 33.125179290771484
+train epoch 15 total loss 17948069.9375
+val epoch 15 total loss 1986331.0505065918 avg_psnr 33.14990997314453
+train epoch 16 total loss 17788508.6953125
+val epoch 16 total loss 1967413.9284057617 avg_psnr 33.19805145263672
+train epoch 17 total loss 17783432.2734375
+val epoch 17 total loss 1961573.2106323242 avg_psnr 33.17733383178711
+train epoch 18 total loss 17785055.671875
+val epoch 18 total loss 1975926.7136535645 avg_psnr 33.20965576171875
+train epoch 19 total loss 17684989.10546875
+val epoch 19 total loss 1940770.529586792 avg_psnr 33.33863830566406
+train epoch 20 total loss 17700584.0234375
+val epoch 20 total loss 1949187.0838928223 avg_psnr 33.340843200683594
+train epoch 21 total loss 17626769.328125
+val epoch 21 total loss 1966793.9328308105 avg_psnr 33.21399688720703
+train epoch 22 total loss 17525717.4453125
+val epoch 22 total loss 1916539.5979614258 avg_psnr 33.43012619018555
+Save best model
+train epoch 23 total loss 17250953.9609375
+val epoch 23 total loss 1872149.6551208496 avg_psnr 33.42378234863281
+train epoch 24 total loss 17081341.82421875
+val epoch 24 total loss 1871591.7116088867 avg_psnr 33.50882339477539
+Save best model
+train epoch 25 total loss 16873236.2265625
+val epoch 25 total loss 1854127.8548278809 avg_psnr 33.61958312988281
+Save best model
+train epoch 26 total loss 16815661.140625
+val epoch 26 total loss 1831978.1372375488 avg_psnr 33.661319732666016
+Save best model
+train epoch 27 total loss 16709731.859375
+val epoch 27 total loss 1862123.2718353271 avg_psnr 33.46644592285156
+train epoch 28 total loss 16654417.3125
+val epoch 28 total loss 1845717.8820343018 avg_psnr 33.6308708190918
+train epoch 29 total loss 16730369.53125
+val epoch 29 total loss 1818852.1163482666 avg_psnr 33.71204376220703
+Save best model
+train epoch 30 total loss 16648852.953125
+val epoch 30 total loss 1821236.4451293945 avg_psnr 33.73579025268555
+Save best model
+train epoch 31 total loss 16606057.7421875
+val epoch 31 total loss 1812836.6952819824 avg_psnr 33.63982391357422
+train epoch 32 total loss 16515907.1171875
+val epoch 32 total loss 1828557.5321655273 avg_psnr 33.625205993652344
+train epoch 33 total loss 16505020.109375
+val epoch 33 total loss 1797123.381011963 avg_psnr 33.77223205566406
+Save best model
+train epoch 34 total loss 16524945.9765625
+val epoch 34 total loss 1828281.1634521484 avg_psnr 33.630096435546875
+train epoch 35 total loss 16445877.8359375
+val epoch 35 total loss 1809814.3244171143 avg_psnr 33.77538299560547
+Save best model
+train epoch 36 total loss 16466968.1015625
+val epoch 36 total loss 1790477.1496276855 avg_psnr 33.93058776855469
+Save best model
+train epoch 37 total loss 16439267.25
+val epoch 37 total loss 1785376.2137756348 avg_psnr 33.957035064697266
+Save best model
+train epoch 38 total loss 16484992.25
+val epoch 38 total loss 1815689.374206543 avg_psnr 33.730987548828125
+train epoch 39 total loss 16310381.296875
+val epoch 39 total loss 1774298.0368652344 avg_psnr 33.981319427490234
+Save best model
+train epoch 40 total loss 16378867.109375
+val epoch 40 total loss 1804120.1271820068 avg_psnr 33.72268295288086
+train epoch 41 total loss 16357432.16796875
+val epoch 41 total loss 1798709.0494384766 avg_psnr 33.8571891784668
+train epoch 42 total loss 16405321.234375
+val epoch 42 total loss 1802456.1478729248 avg_psnr 33.82830047607422
+train epoch 43 total loss 16189411.18359375
+val epoch 43 total loss 1825405.079421997 avg_psnr 33.65215301513672
+train epoch 44 total loss 16337775.25
+val epoch 44 total loss 1806165.629852295 avg_psnr 33.76634979248047
+train epoch 45 total loss 16188448.7734375
+val epoch 45 total loss 1815488.3021087646 avg_psnr 33.69682312011719
+train epoch 46 total loss 16185937.515625
+val epoch 46 total loss 1808456.7376556396 avg_psnr 33.722965240478516
+train epoch 47 total loss 16258247.765625
+val epoch 47 total loss 1790398.0173187256 avg_psnr 33.888771057128906
+train epoch 48 total loss 16190455.453125
+val epoch 48 total loss 1806268.0408325195 avg_psnr 33.66741180419922
+train epoch 49 total loss 16229868.41796875
+val epoch 49 total loss 1817354.5066986084 avg_psnr 33.69241714477539
+train epoch 50 total loss 16102245.5859375
+val epoch 50 total loss 1794037.2565002441 avg_psnr 33.88993835449219
+train epoch 51 total loss 16108445.0703125
+val epoch 51 total loss 1772560.0657653809 avg_psnr 34.04519271850586
+Save best model
+train epoch 52 total loss 16164514.08984375
+val epoch 52 total loss 1794643.4895935059 avg_psnr 33.895790100097656
+train epoch 53 total loss 16130414.0390625
+val epoch 53 total loss 1767808.8637237549 avg_psnr 33.95515060424805
+train epoch 54 total loss 16177388.2265625
+val epoch 54 total loss 1799852.7627105713 avg_psnr 33.82954025268555
+train epoch 55 total loss 16077485.6171875
+val epoch 55 total loss 1767824.131149292 avg_psnr 33.953773498535156
+train epoch 56 total loss 16087014.08203125
+val epoch 56 total loss 1805419.929260254 avg_psnr 33.817073822021484
+train epoch 57 total loss 16112883.1015625
+val epoch 57 total loss 1767077.4715270996 avg_psnr 33.940757751464844
+train epoch 58 total loss 16106746.90234375
+val epoch 58 total loss 1771757.6829071045 avg_psnr 33.8682861328125
+train epoch 59 total loss 16062188.359375
+val epoch 59 total loss 1736589.8621520996 avg_psnr 33.909576416015625
+train epoch 60 total loss 16092773.9140625
+val epoch 60 total loss 1780653.913116455 avg_psnr 33.9041748046875
+train epoch 61 total loss 16013170.8359375
+val epoch 61 total loss 1768720.2016906738 avg_psnr 33.902957916259766
+train epoch 62 total loss 16024277.546875
+val epoch 62 total loss 1732717.0651550293 avg_psnr 34.01420211791992
+train epoch 63 total loss 15902496.0390625
+val epoch 63 total loss 1790045.1896362305 avg_psnr 33.83083724975586
+train epoch 64 total loss 16038437.7109375
+val epoch 64 total loss 1781143.3387756348 avg_psnr 33.93227767944336
+train epoch 65 total loss 16041692.95703125
+val epoch 65 total loss 1766190.7269592285 avg_psnr 33.98446273803711
+train epoch 66 total loss 15962265.8203125
+val epoch 66 total loss 1758485.7786102295 avg_psnr 33.97453308105469
+train epoch 67 total loss 15944335.34375
+val epoch 67 total loss 1759367.131011963 avg_psnr 33.90083312988281
+train epoch 68 total loss 15900721.48828125
+val epoch 68 total loss 1780029.3481903076 avg_psnr 33.95273971557617
+train epoch 69 total loss 15920425.8671875
+val epoch 69 total loss 1771452.7404022217 avg_psnr 33.989501953125
+train epoch 70 total loss 15911992.1640625
+val epoch 70 total loss 1757130.928100586 avg_psnr 33.891048431396484
+train epoch 71 total loss 15876111.7890625
+val epoch 71 total loss 1771059.2614593506 avg_psnr 33.94326400756836
+train epoch 72 total loss 15884754.17578125
+val epoch 72 total loss 1776896.130859375 avg_psnr 33.94053268432617
+train epoch 73 total loss 15739052.5859375
+val epoch 73 total loss 1747749.16897583 avg_psnr 33.932376861572266
+train epoch 74 total loss 15682068.109375
+val epoch 74 total loss 1731598.478668213 avg_psnr 34.116878509521484
+Save best model
+train epoch 75 total loss 15832578.2890625
+val epoch 75 total loss 1760051.4936523438 avg_psnr 33.859981536865234
+train epoch 76 total loss 15810459.78125
+val epoch 76 total loss 1743260.6241149902 avg_psnr 34.08708953857422
+train epoch 77 total loss 15764467.640625
+val epoch 77 total loss 1741092.1607818604 avg_psnr 34.059539794921875
+train epoch 78 total loss 15830227.2421875
+val epoch 78 total loss 1767585.62008667 avg_psnr 33.94335174560547
+train epoch 79 total loss 15677635.8203125
+val epoch 79 total loss 1715003.4883422852 avg_psnr 34.120174407958984
+Save best model
+train epoch 80 total loss 15704634.02734375
+val epoch 80 total loss 1751580.4794464111 avg_psnr 33.969730377197266
+train epoch 81 total loss 15715331.7734375
+val epoch 81 total loss 1706207.7954101562 avg_psnr 34.23952102661133
+Save best model
+train epoch 82 total loss 15683708.9140625
+val epoch 82 total loss 1736049.7273254395 avg_psnr 34.22085952758789
+train epoch 83 total loss 15659225.484375
+val epoch 83 total loss 1776316.7447662354 avg_psnr 33.768978118896484
+train epoch 84 total loss 15669333.484375
+val epoch 84 total loss 1748562.243560791 avg_psnr 33.86396026611328
+train epoch 85 total loss 15612802.49609375
+val epoch 85 total loss 1734788.8412017822 avg_psnr 34.04540252685547
+train epoch 86 total loss 15682177.953125
+val epoch 86 total loss 1723953.7205352783 avg_psnr 33.97081756591797
+train epoch 87 total loss 15620163.296875
+val epoch 87 total loss 1719202.3371582031 avg_psnr 34.187599182128906
+train epoch 88 total loss 15643849.328125
+val epoch 88 total loss 1737865.1705627441 avg_psnr 33.9131965637207
+train epoch 89 total loss 15629993.56640625
+val epoch 89 total loss 1706611.8294067383 avg_psnr 34.07862091064453
+train epoch 90 total loss 15653356.0703125
+val epoch 90 total loss 1725799.5413208008 avg_psnr 34.05797576904297
+train epoch 91 total loss 15733012.1953125
+val epoch 91 total loss 1725034.7152404785 avg_psnr 34.10419464111328
+train epoch 92 total loss 15525102.8359375
+val epoch 92 total loss 1698359.579498291 avg_psnr 34.244319915771484
+Save best model
+train epoch 93 total loss 15518304.8046875
+val epoch 93 total loss 1732398.879058838 avg_psnr 34.21101379394531
+train epoch 94 total loss 15618319.203125
+val epoch 94 total loss 1724131.4339141846 avg_psnr 34.14667892456055
+train epoch 95 total loss 15699956.8515625
+val epoch 95 total loss 1720765.0354766846 avg_psnr 34.09817886352539
+train epoch 96 total loss 15566334.4609375
+val epoch 96 total loss 1738567.1740112305 avg_psnr 33.99797439575195
+train epoch 97 total loss 15585218.921875
+val epoch 97 total loss 1730146.4279632568 avg_psnr 34.028533935546875
+train epoch 98 total loss 15678360.96875
+val epoch 98 total loss 1708189.614654541 avg_psnr 34.108253479003906
+train epoch 99 total loss 15514470.0078125
+val epoch 99 total loss 1750674.7513885498 avg_psnr 33.93082046508789
+train epoch 100 total loss 15488579.10546875
+val epoch 100 total loss 1736125.5489501953 avg_psnr 34.15009689331055
+train epoch 101 total loss 15482134.51953125
+val epoch 101 total loss 1731139.237411499 avg_psnr 34.08414077758789
+train epoch 102 total loss 15458669.609375
+val epoch 102 total loss 1710102.5680847168 avg_psnr 34.058067321777344
+train epoch 103 total loss 15539187.98828125
+val epoch 103 total loss 1702408.5316467285 avg_psnr 34.10348129272461
+train epoch 104 total loss 15505665.87109375
+val epoch 104 total loss 1707450.3816223145 avg_psnr 34.39181137084961
+Save best model
+train epoch 105 total loss 15495877.49609375
+val epoch 105 total loss 1716244.4694824219 avg_psnr 34.10377502441406
+train epoch 106 total loss 15454258.62109375
+val epoch 106 total loss 1705135.0110321045 avg_psnr 34.089271545410156
+train epoch 107 total loss 15502301.48828125
+val epoch 107 total loss 1703676.708114624 avg_psnr 34.0798225402832
+train epoch 108 total loss 15497991.5078125
+val epoch 108 total loss 1704361.1604003906 avg_psnr 34.17876434326172
+train epoch 109 total loss 15381393.1796875
+val epoch 109 total loss 1682664.0109863281 avg_psnr 34.4356803894043
+Save best model
+train epoch 110 total loss 15518450.546875
+val epoch 110 total loss 1720042.6936950684 avg_psnr 34.15563201904297
+train epoch 111 total loss 15455426.21875
+val epoch 111 total loss 1695842.2830200195 avg_psnr 34.07353973388672
+train epoch 112 total loss 15463986.8125
+val epoch 112 total loss 1704193.125427246 avg_psnr 34.2912483215332
+train epoch 113 total loss 15421106.57421875
+val epoch 113 total loss 1711545.1148223877 avg_psnr 34.05757141113281
+train epoch 114 total loss 15548518.73828125
+val epoch 114 total loss 1675762.4304656982 avg_psnr 34.412513732910156
+train epoch 115 total loss 15425781.984375
+val epoch 115 total loss 1731864.511138916 avg_psnr 34.01108169555664
+train epoch 116 total loss 15427574.1953125
+val epoch 116 total loss 1700490.7552490234 avg_psnr 34.201725006103516
+train epoch 117 total loss 15409692.1484375
+val epoch 117 total loss 1701494.2112426758 avg_psnr 34.37079620361328
+train epoch 118 total loss 15436496.25
+val epoch 118 total loss 1671193.9847564697 avg_psnr 34.41058349609375
+train epoch 119 total loss 15417256.9765625
+val epoch 119 total loss 1724648.4255828857 avg_psnr 34.130008697509766
+train epoch 120 total loss 15412750.921875
+val epoch 120 total loss 1677859.0960083008 avg_psnr 34.24224853515625
+train epoch 121 total loss 15354756.64453125
+val epoch 121 total loss 1687043.2489318848 avg_psnr 34.168601989746094
+train epoch 122 total loss 15413562.546875
+val epoch 122 total loss 1737612.186126709 avg_psnr 34.07212829589844
+train epoch 123 total loss 15434513.53515625
+val epoch 123 total loss 1711163.0635681152 avg_psnr 34.00377655029297
+train epoch 124 total loss 15461956.8125
+val epoch 124 total loss 1713704.4054412842 avg_psnr 34.239505767822266
+train epoch 125 total loss 15429838.40625
+val epoch 125 total loss 1685754.7862091064 avg_psnr 34.13924789428711
+train epoch 126 total loss 15433365.375
+val epoch 126 total loss 1705519.2129516602 avg_psnr 34.07838821411133
+train epoch 127 total loss 15393513.5703125
+val epoch 127 total loss 1676800.6228637695 avg_psnr 34.44719314575195
+Save best model
+train epoch 128 total loss 15483036.73046875
+val epoch 128 total loss 1677782.2475280762 avg_psnr 34.161800384521484
+train epoch 129 total loss 15357145.19921875
+val epoch 129 total loss 1691928.1629943848 avg_psnr 34.2684211730957
+train epoch 130 total loss 15325074.21875
+val epoch 130 total loss 1728598.6193237305 avg_psnr 34.058353424072266
+train epoch 131 total loss 15483248.0703125
+val epoch 131 total loss 1685593.8258514404 avg_psnr 34.36174774169922
+train epoch 132 total loss 15391847.4375
+val epoch 132 total loss 1705647.9794921875 avg_psnr 34.07712173461914
+train epoch 133 total loss 15321346.98046875
+val epoch 133 total loss 1682081.2507324219 avg_psnr 34.213829040527344
+train epoch 134 total loss 15437056.34375
+val epoch 134 total loss 1665178.8027191162 avg_psnr 34.29908752441406
+train epoch 135 total loss 15326932.8984375
+val epoch 135 total loss 1716524.7079162598 avg_psnr 34.099639892578125
+train epoch 136 total loss 15387828.71875
+val epoch 136 total loss 1698708.2750396729 avg_psnr 34.31340789794922
+train epoch 137 total loss 15357542.0
+val epoch 137 total loss 1691781.9694213867 avg_psnr 34.175872802734375
+train epoch 138 total loss 15343802.0546875
+val epoch 138 total loss 1719492.9085235596 avg_psnr 34.00358581542969
+train epoch 139 total loss 15296365.3359375
+val epoch 139 total loss 1673526.5486450195 avg_psnr 34.24977111816406
+train epoch 140 total loss 15318467.859375
+val epoch 140 total loss 1674421.0634155273 avg_psnr 34.38136291503906
+train epoch 141 total loss 15247963.7890625
+val epoch 141 total loss 1695790.3373718262 avg_psnr 34.093536376953125
+train epoch 142 total loss 15377608.20703125
+val epoch 142 total loss 1705244.6730651855 avg_psnr 34.1250114440918
+train epoch 143 total loss 15373361.01171875
+val epoch 143 total loss 1698681.5468139648 avg_psnr 34.19988250732422
+train epoch 144 total loss 15280593.515625
+val epoch 144 total loss 1702244.6994781494 avg_psnr 34.07140350341797
+train epoch 145 total loss 15336324.4375
+val epoch 145 total loss 1682955.6512451172 avg_psnr 34.284950256347656
+train epoch 146 total loss 15382625.546875
+val epoch 146 total loss 1691071.0592803955 avg_psnr 34.29070281982422
+train epoch 147 total loss 15271940.0390625
+val epoch 147 total loss 1685173.6679382324 avg_psnr 34.453025817871094
+Save best model
+train epoch 148 total loss 15305821.8515625
+val epoch 148 total loss 1707932.9706878662 avg_psnr 34.1909294128418
+train epoch 149 total loss 15381185.0234375
+val epoch 149 total loss 1679848.2991027832 avg_psnr 34.30527114868164
+train epoch 150 total loss 15228890.125
+val epoch 150 total loss 1661683.067199707 avg_psnr 34.379661560058594
+train epoch 151 total loss 15266130.453125
+val epoch 151 total loss 1727670.8177185059 avg_psnr 34.18715286254883
+train epoch 152 total loss 15414361.578125
+val epoch 152 total loss 1669971.3852233887 avg_psnr 34.3998908996582
+train epoch 153 total loss 15312354.265625
+val epoch 153 total loss 1698114.6551971436 avg_psnr 34.196407318115234
+train epoch 154 total loss 15247516.109375
+val epoch 154 total loss 1674265.4693145752 avg_psnr 34.286590576171875
+train epoch 155 total loss 15227668.1171875
+val epoch 155 total loss 1685174.3396606445 avg_psnr 34.21840286254883
+train epoch 156 total loss 15311313.28125
+val epoch 156 total loss 1677483.5049438477 avg_psnr 34.20073318481445
+train epoch 157 total loss 15331973.4765625
+val epoch 157 total loss 1675036.6512908936 avg_psnr 34.28596496582031
+train epoch 158 total loss 15305896.0
+val epoch 158 total loss 1702478.6421661377 avg_psnr 34.26734924316406
+train epoch 159 total loss 15179039.02734375
+val epoch 159 total loss 1666010.4539489746 avg_psnr 34.519344329833984
+Save best model
+train epoch 160 total loss 15242141.515625
+val epoch 160 total loss 1720730.3903198242 avg_psnr 34.09740447998047
+train epoch 161 total loss 15240234.9453125
+val epoch 161 total loss 1670921.1984710693 avg_psnr 34.40339279174805
+train epoch 162 total loss 15250914.48046875
+val epoch 162 total loss 1680918.181930542 avg_psnr 34.27533721923828
+train epoch 163 total loss 15322386.953125
+val epoch 163 total loss 1711052.458404541 avg_psnr 34.099796295166016
+train epoch 164 total loss 15264683.71875
+val epoch 164 total loss 1672105.566833496 avg_psnr 34.22615432739258
+train epoch 165 total loss 15242905.03125
+val epoch 165 total loss 1684788.386291504 avg_psnr 34.369239807128906
+train epoch 166 total loss 15244776.2890625
+val epoch 166 total loss 1680618.5283203125 avg_psnr 34.22006607055664
+train epoch 167 total loss 15228364.6953125
+val epoch 167 total loss 1705881.6051483154 avg_psnr 34.13002014160156
+train epoch 168 total loss 15236199.15234375
+val epoch 168 total loss 1682104.1287841797 avg_psnr 34.187320709228516
+train epoch 169 total loss 15263104.5390625
+val epoch 169 total loss 1658189.3280029297 avg_psnr 34.330501556396484
+train epoch 170 total loss 15246460.3046875
+val epoch 170 total loss 1688205.5393981934 avg_psnr 34.20781707763672
+train epoch 171 total loss 15220918.109375
+val epoch 171 total loss 1691818.761138916 avg_psnr 34.3680305480957
+train epoch 172 total loss 15240844.15625
+val epoch 172 total loss 1708523.5168762207 avg_psnr 34.14156723022461
+train epoch 173 total loss 15293506.76953125
+val epoch 173 total loss 1682682.6952514648 avg_psnr 34.446048736572266
+train epoch 174 total loss 15272254.80078125
+val epoch 174 total loss 1670257.611541748 avg_psnr 34.19353485107422
+train epoch 175 total loss 15231217.53125
+val epoch 175 total loss 1679153.8437194824 avg_psnr 34.13554000854492
+train epoch 176 total loss 15272626.4453125
+val epoch 176 total loss 1653640.5561218262 avg_psnr 34.43642807006836
+train epoch 177 total loss 15164962.421875
+val epoch 177 total loss 1682304.2436065674 avg_psnr 34.17744827270508
+train epoch 178 total loss 15303195.58203125
+val epoch 178 total loss 1697415.5556640625 avg_psnr 34.45332336425781
+train epoch 179 total loss 15294805.78125
+val epoch 179 total loss 1700525.4093017578 avg_psnr 34.179080963134766
+train epoch 180 total loss 15221740.90625
+val epoch 180 total loss 1693214.974243164 avg_psnr 34.204830169677734
+train epoch 181 total loss 15243601.3828125
+val epoch 181 total loss 1679639.5942077637 avg_psnr 34.205848693847656
+train epoch 182 total loss 15221845.7265625
+val epoch 182 total loss 1704236.856338501 avg_psnr 34.26738739013672
+train epoch 183 total loss 15295918.73046875
+val epoch 183 total loss 1689978.2331237793 avg_psnr 34.1954231262207
+train epoch 184 total loss 15273201.5
+val epoch 184 total loss 1709707.4910583496 avg_psnr 34.182518005371094
+train epoch 185 total loss 15193200.4765625
+val epoch 185 total loss 1698453.036895752 avg_psnr 34.22459411621094
+train epoch 186 total loss 15177052.359375
+val epoch 186 total loss 1681721.289276123 avg_psnr 34.26979064941406
+train epoch 187 total loss 15239090.00390625
+val epoch 187 total loss 1681112.4096069336 avg_psnr 34.21827697753906
+train epoch 188 total loss 15161376.046875
+val epoch 188 total loss 1678106.1829986572 avg_psnr 34.296566009521484
+train epoch 189 total loss 15159352.671875
+val epoch 189 total loss 1730471.0935211182 avg_psnr 34.02543258666992
+train epoch 190 total loss 15187684.76171875
+val epoch 190 total loss 1686172.0946044922 avg_psnr 34.406707763671875
+train epoch 191 total loss 15195219.12890625
+val epoch 191 total loss 1685043.2083892822 avg_psnr 34.33390426635742
+train epoch 192 total loss 15211810.4296875
+val epoch 192 total loss 1697827.535949707 avg_psnr 34.17780303955078
+train epoch 193 total loss 15164998.0390625
+val epoch 193 total loss 1686433.0100402832 avg_psnr 34.33467102050781
+train epoch 194 total loss 15235136.09375
+val epoch 194 total loss 1676119.8961486816 avg_psnr 34.32996368408203
+train epoch 195 total loss 15182302.19140625
+val epoch 195 total loss 1708857.2898864746 avg_psnr 34.17378234863281
+train epoch 196 total loss 15172523.953125
+val epoch 196 total loss 1684615.9882507324 avg_psnr 34.277198791503906
+train epoch 197 total loss 15104200.4609375
+val epoch 197 total loss 1683706.6936798096 avg_psnr 34.33307647705078
+train epoch 198 total loss 15165049.5234375
+val epoch 198 total loss 1677724.192489624 avg_psnr 34.34006881713867
+train epoch 199 total loss 15153870.0546875
+val epoch 199 total loss 1696736.9338378906 avg_psnr 34.14851760864258
+train epoch 200 total loss 15133716.9921875
+val epoch 200 total loss 1696980.163116455 avg_psnr 34.22053146362305
+train epoch 201 total loss 15152067.34375
+val epoch 201 total loss 1663339.158782959 avg_psnr 34.36207580566406
+train epoch 202 total loss 15066497.171875
+val epoch 202 total loss 1675448.0903167725 avg_psnr 34.4399299621582
+train epoch 203 total loss 15273811.57421875
+val epoch 203 total loss 1693060.793548584 avg_psnr 34.14087677001953
+train epoch 204 total loss 15166979.46484375
+val epoch 204 total loss 1675897.3420715332 avg_psnr 34.28030014038086
+train epoch 205 total loss 15218007.9765625
+val epoch 205 total loss 1690906.272064209 avg_psnr 34.3074836730957
+train epoch 206 total loss 15193588.76171875
+val epoch 206 total loss 1651308.9718933105 avg_psnr 34.5289306640625
+Save best model
+train epoch 207 total loss 15242603.6328125
+val epoch 207 total loss 1675154.564453125 avg_psnr 34.38174057006836
+train epoch 208 total loss 15215781.46875
+val epoch 208 total loss 1664996.3458709717 avg_psnr 34.350494384765625
+train epoch 209 total loss 15101119.1796875
+val epoch 209 total loss 1663412.8583374023 avg_psnr 34.47928237915039
+train epoch 210 total loss 15196645.0390625
+val epoch 210 total loss 1680571.9897003174 avg_psnr 34.23849868774414
+train epoch 211 total loss 15112161.2109375
+val epoch 211 total loss 1659265.4204406738 avg_psnr 34.31797409057617
+train epoch 212 total loss 15145424.1328125
+val epoch 212 total loss 1672668.9261627197 avg_psnr 34.44060516357422
+train epoch 213 total loss 15075199.9921875
+val epoch 213 total loss 1644593.4773101807 avg_psnr 34.496055603027344
+train epoch 214 total loss 15264204.4453125
+val epoch 214 total loss 1668280.973236084 avg_psnr 34.340553283691406
+train epoch 215 total loss 15175118.6171875
+val epoch 215 total loss 1659747.8628082275 avg_psnr 34.451595306396484
+train epoch 216 total loss 15122179.74609375
+val epoch 216 total loss 1678263.6716766357 avg_psnr 34.347511291503906
+train epoch 217 total loss 15208729.4921875
+val epoch 217 total loss 1654611.3936462402 avg_psnr 34.308345794677734
+train epoch 218 total loss 15163798.890625
+val epoch 218 total loss 1702746.9395446777 avg_psnr 34.12104797363281
+train epoch 219 total loss 15197627.5859375
+val epoch 219 total loss 1669636.5984954834 avg_psnr 34.52967834472656
+Save best model
+train epoch 220 total loss 15098731.5859375
+val epoch 220 total loss 1686140.4515838623 avg_psnr 34.17813491821289
+train epoch 221 total loss 15199562.4296875
+val epoch 221 total loss 1662884.5688171387 avg_psnr 34.44062805175781
+train epoch 222 total loss 15128410.08203125
+val epoch 222 total loss 1683628.8455200195 avg_psnr 34.40575408935547
+train epoch 223 total loss 15159818.34375
+val epoch 223 total loss 1660508.6440124512 avg_psnr 34.36088943481445
+train epoch 224 total loss 15114148.3984375
+val epoch 224 total loss 1697318.9714050293 avg_psnr 34.32354736328125
+train epoch 225 total loss 15059204.48046875
+val epoch 225 total loss 1656240.517288208 avg_psnr 34.360260009765625
+train epoch 226 total loss 15193299.2109375
+val epoch 226 total loss 1665758.981262207 avg_psnr 34.30195236206055
+train epoch 227 total loss 15147648.78515625
+val epoch 227 total loss 1685355.1497650146 avg_psnr 34.26923370361328
+train epoch 228 total loss 15025128.69140625
+val epoch 228 total loss 1674758.4831085205 avg_psnr 34.438018798828125
+train epoch 229 total loss 15047605.8125
+val epoch 229 total loss 1675592.0618591309 avg_psnr 34.313758850097656
+train epoch 230 total loss 15084544.55859375
+val epoch 230 total loss 1699797.2176513672 avg_psnr 34.23403549194336
+train epoch 231 total loss 15156589.28125
+val epoch 231 total loss 1708995.450805664 avg_psnr 34.30589294433594
+train epoch 232 total loss 15188653.16015625
+val epoch 232 total loss 1699508.5747070312 avg_psnr 34.443443298339844
+train epoch 233 total loss 15096687.09375
+val epoch 233 total loss 1661560.366607666 avg_psnr 34.381622314453125
+train epoch 234 total loss 15165303.60546875
+val epoch 234 total loss 1688524.595275879 avg_psnr 34.31621551513672
+train epoch 235 total loss 15063844.20703125
+val epoch 235 total loss 1640644.5077972412 avg_psnr 34.355873107910156
+train epoch 236 total loss 15120273.171875
+val epoch 236 total loss 1658795.0372009277 avg_psnr 34.6097412109375
+Save best model
+train epoch 237 total loss 15111887.79296875
+val epoch 237 total loss 1642263.4799804688 avg_psnr 34.485252380371094
+train epoch 238 total loss 15125319.34375
+val epoch 238 total loss 1661292.2895965576 avg_psnr 34.40215301513672
+train epoch 239 total loss 15133129.1875
+val epoch 239 total loss 1664685.175994873 avg_psnr 34.428062438964844
+train epoch 240 total loss 15097603.08203125
+val epoch 240 total loss 1653596.014038086 avg_psnr 34.60611343383789
+train epoch 241 total loss 15090183.21875
+val epoch 241 total loss 1677929.2708435059 avg_psnr 34.373931884765625
+train epoch 242 total loss 15014876.203125
+val epoch 242 total loss 1669451.2025604248 avg_psnr 34.371212005615234
+train epoch 243 total loss 15092143.60546875
+val epoch 243 total loss 1667325.9390563965 avg_psnr 34.450645446777344
+train epoch 244 total loss 15094133.9453125
+val epoch 244 total loss 1677373.5105285645 avg_psnr 34.268882751464844
+train epoch 245 total loss 15096583.1015625
+val epoch 245 total loss 1660450.245666504 avg_psnr 34.453834533691406
+train epoch 246 total loss 15080720.078125
+val epoch 246 total loss 1684660.4254302979 avg_psnr 34.190860748291016
+train epoch 247 total loss 15035410.49609375
+val epoch 247 total loss 1655686.8953552246 avg_psnr 34.40351104736328
+train epoch 248 total loss 15124939.4765625
+val epoch 248 total loss 1672870.1681518555 avg_psnr 34.4759521484375
+train epoch 249 total loss 15134451.76171875
+val epoch 249 total loss 1652204.9221038818 avg_psnr 34.5433349609375
+train epoch 250 total loss 15060402.5078125
+val epoch 250 total loss 1670739.0552215576 avg_psnr 34.345157623291016
+train epoch 251 total loss 15036830.0390625
+val epoch 251 total loss 1685267.795501709 avg_psnr 34.45380783081055
+train epoch 252 total loss 15064539.62890625
+val epoch 252 total loss 1678380.034576416 avg_psnr 34.29580307006836
+train epoch 253 total loss 14997310.3203125
+val epoch 253 total loss 1684660.4985198975 avg_psnr 34.18489074707031
+train epoch 254 total loss 15101407.28125
+val epoch 254 total loss 1693678.9149780273 avg_psnr 34.133968353271484
+train epoch 255 total loss 15055360.234375
+val epoch 255 total loss 1650042.3284606934 avg_psnr 34.410804748535156
+train epoch 256 total loss 15022885.9921875
+val epoch 256 total loss 1660906.074371338 avg_psnr 34.4373893737793
+train epoch 257 total loss 15057962.23046875
+val epoch 257 total loss 1669835.778930664 avg_psnr 34.30124282836914
+train epoch 258 total loss 15080101.9375
+val epoch 258 total loss 1685251.2365722656 avg_psnr 34.19126510620117
+train epoch 259 total loss 15021500.24609375
+val epoch 259 total loss 1655730.4147338867 avg_psnr 34.37317657470703
+train epoch 260 total loss 15076814.5
+val epoch 260 total loss 1654918.368850708 avg_psnr 34.48609924316406
+train epoch 261 total loss 15055609.9921875
+val epoch 261 total loss 1664648.2990570068 avg_psnr 34.32843017578125
+train epoch 262 total loss 15065321.4375
+val epoch 262 total loss 1657696.0162963867 avg_psnr 34.41001510620117
+train epoch 263 total loss 15072182.1015625
+val epoch 263 total loss 1639749.5448913574 avg_psnr 34.685081481933594
+Save best model
+train epoch 264 total loss 15009941.19140625
+val epoch 264 total loss 1664290.42868042 avg_psnr 34.36031723022461
+train epoch 265 total loss 15031576.7109375
+val epoch 265 total loss 1648752.9776153564 avg_psnr 34.53075408935547
+train epoch 266 total loss 15036491.828125
+val epoch 266 total loss 1638674.9120178223 avg_psnr 34.406742095947266
+train epoch 267 total loss 15117824.578125
+val epoch 267 total loss 1703131.4146118164 avg_psnr 34.138675689697266
+train epoch 268 total loss 15050474.62109375
+val epoch 268 total loss 1685476.2932128906 avg_psnr 34.39979934692383
+train epoch 269 total loss 15059445.3671875
+val epoch 269 total loss 1661094.1712646484 avg_psnr 34.512046813964844
+train epoch 270 total loss 15025687.99609375
+val epoch 270 total loss 1677022.051361084 avg_psnr 34.39472579956055
+train epoch 271 total loss 15063411.8203125
+val epoch 271 total loss 1670943.3038635254 avg_psnr 34.3740348815918
+train epoch 272 total loss 15152073.8828125
+val epoch 272 total loss 1674701.8460388184 avg_psnr 34.267391204833984
+train epoch 273 total loss 15066651.83203125
+val epoch 273 total loss 1681252.498184204 avg_psnr 34.306941986083984
+train epoch 274 total loss 15009025.59765625
+val epoch 274 total loss 1655044.7166137695 avg_psnr 34.385887145996094
+train epoch 275 total loss 14945389.1484375
+val epoch 275 total loss 1691229.6669006348 avg_psnr 34.30708312988281
+train epoch 276 total loss 14959508.65625
+val epoch 276 total loss 1657506.6472167969 avg_psnr 34.395233154296875
+train epoch 277 total loss 15071776.8828125
+val epoch 277 total loss 1678739.9147949219 avg_psnr 34.30353927612305
+train epoch 278 total loss 15133941.875
+val epoch 278 total loss 1671349.8167114258 avg_psnr 34.380279541015625
+train epoch 279 total loss 15001005.75
+val epoch 279 total loss 1661793.199432373 avg_psnr 34.361351013183594
+train epoch 280 total loss 15062106.30859375
+val epoch 280 total loss 1663154.5815887451 avg_psnr 34.41926193237305
+train epoch 281 total loss 15087089.56640625
+val epoch 281 total loss 1660186.0948486328 avg_psnr 34.53981018066406
+train epoch 282 total loss 15027203.9140625
+val epoch 282 total loss 1654938.2998962402 avg_psnr 34.49815368652344
+train epoch 283 total loss 14990691.06640625
+val epoch 283 total loss 1664062.431213379 avg_psnr 34.32925033569336
+train epoch 284 total loss 14999192.24609375
+val epoch 284 total loss 1660736.2879180908 avg_psnr 34.44957733154297
+train epoch 285 total loss 15105283.52734375
+val epoch 285 total loss 1686396.9739227295 avg_psnr 34.358890533447266
+train epoch 286 total loss 15062744.234375
+val epoch 286 total loss 1666853.3906555176 avg_psnr 34.43324661254883
+train epoch 287 total loss 15059922.98046875
+val epoch 287 total loss 1659887.1733093262 avg_psnr 34.61587142944336
+train epoch 288 total loss 15048588.39453125
+val epoch 288 total loss 1629416.2860870361 avg_psnr 34.47168731689453
+train epoch 289 total loss 14969019.49609375
+val epoch 289 total loss 1643464.4344329834 avg_psnr 34.6771125793457
+train epoch 290 total loss 15034284.5234375
+val epoch 290 total loss 1669303.6113128662 avg_psnr 34.320674896240234
+train epoch 291 total loss 14990367.5
+val epoch 291 total loss 1656464.5027160645 avg_psnr 34.376346588134766
+train epoch 292 total loss 15071255.7109375
+val epoch 292 total loss 1669595.9379882812 avg_psnr 34.26734924316406
+train epoch 293 total loss 15054951.7421875
+val epoch 293 total loss 1667183.8088531494 avg_psnr 34.57339859008789
+train epoch 294 total loss 15037396.1328125
+val epoch 294 total loss 1666984.3263549805 avg_psnr 34.34011459350586
+train epoch 295 total loss 15031222.61328125
+val epoch 295 total loss 1664295.6743927002 avg_psnr 34.41598129272461
+train epoch 296 total loss 14964551.28515625
+val epoch 296 total loss 1659653.3175811768 avg_psnr 34.45992660522461
+train epoch 297 total loss 15001528.9765625
+val epoch 297 total loss 1663465.4640197754 avg_psnr 34.37803649902344
+train epoch 298 total loss 14988762.2265625
+val epoch 298 total loss 1642452.28515625 avg_psnr 34.596187591552734
+train epoch 299 total loss 14943938.75390625
+val epoch 299 total loss 1683219.1416015625 avg_psnr 34.194034576416016
