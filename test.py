@@ -33,7 +33,7 @@ def test(scale=4, model='./Models/x4_best.pt', input='./input', output='./output
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--scale", default=4, type=int)
-    parser.add_argument("--model", default="", type=str)
+    parser.add_argument("--model", default="./Models/x4_best.pt", type=str)
     parser.add_argument("--input", default="./input", type=str)
     parser.add_argument("--output", default="./output", type=str)
     parser.add_argument("--gpu", default=0, type=int)
