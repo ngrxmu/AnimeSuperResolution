@@ -20,7 +20,7 @@ if __name__ == '__main__':
     sr_size = sr.shape
     lrlr = cv.resize(lr, (sr_size[1], sr_size[0]))
     
-    if not ARGS.model:
+    if not ARGS.mode:
         res = np.concatenate((lrlr, sr), axis=1)
         cv.imwrite('res_static.jpg', res)
     else:
