@@ -51,6 +51,6 @@ def create_h5_file(root, scale):
     h5_file.close()
 
 if __name__=='__main__':
-    clip_image('./data')
     mkdir('./clipdata')
+    clip_image('./data')
     create_h5_file('./clipdata', 4)
