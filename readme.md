@@ -23,7 +23,8 @@ You can find a h5 file in "./".
 ```
 python train.py
 ```
-The trained model and training log are in "./Models/".
+You can find trained model in "./Models/".
+You can find training log in "./".
 ## 3. Test
 ### 3.1 test the result
 ```bash
