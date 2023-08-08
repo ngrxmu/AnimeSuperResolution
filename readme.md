@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ## 2. Train
 ### 2.1 download data
-https://www.aliyundrive.com/s/GRERDnP3mPW
+Please email me if necessary.
 ### 2.2 convert jpg to h5
 ```bash
 python data2h5.py
