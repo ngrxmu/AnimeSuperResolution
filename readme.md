@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ## 2. Train
 ### 2.1 download data
-Please email me if necessary.
+Please email to me (nangongrui1999@gmail.com) if necessary.
 ### 2.2 convert jpg to h5
 ```bash
 python data2h5.py
